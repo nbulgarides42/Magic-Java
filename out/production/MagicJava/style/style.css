@@ -1,0 +1,23 @@
+#helloText {
+-fx-max-width: 400;
+-fx-min-width: 400;
+-fx-max-height: 100;
+-fx-min-height: 100;
+-fx-font-family: "Times";
+-fx-font-weight: bold;
+-fx-font-size: 40;
+
+}
+
+#greekGrid {
+-fx-background-image: url("/assets/projecttwo/walnutbg.jpg");
+-fx-background-repeat: no-repeat;
+-fx-background-size: 900 700;
+-fx-background-position: center center;
+}
+
+
+#flowerLabel {
+
+
+}
